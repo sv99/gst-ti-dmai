@@ -13,7 +13,7 @@ gsttisupport_aac.c gsttisupport_mp3.c gsttisupport_wma.c gsttidmaiperf.c \
 gstticommonutils.c ti_encoders.c ti_decoders.c ittiam_encoders.c ittiam_caps.c caps.c \
 gsttidmaibasedualencoder.c gsttidmaibasevideodualencoder.c \
 gsttidmaih264dualencoder.c gsttidmaividenc1.c \
-gsttidmaivideoutils.c gsttividresize.c
+gsttidmaivideoutils.c gsttividresize.c gsttidmaibuftab.c
 # gsttidm365facedetect.c
 
 # flags used to compile this plugin
